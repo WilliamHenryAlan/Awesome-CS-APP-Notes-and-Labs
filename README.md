@@ -4,6 +4,7 @@
 
 ![](./_Attachments/Cover.jpg)
 
+---
 
 ### 1. Prepare
 - [C语言程序设计K&R_ch](Books/C_language_K&R_ch.pdf)

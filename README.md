@@ -1,7 +1,9 @@
 # Awesome-CS-APP-Notes-and-Labs
 #### Proposition:CS:APP(Computer Systems:A Programmer's perspective) key interpretation ,Notes and Labs.
 
-![](_Attachments/Cover.jpg)
+
+![](./_Attachments/Cover.jpg)
+
 
 ### 1. Prepare
 - [C语言程序设计K&R_ch](Books/C_language_K&R_ch.pdf)
